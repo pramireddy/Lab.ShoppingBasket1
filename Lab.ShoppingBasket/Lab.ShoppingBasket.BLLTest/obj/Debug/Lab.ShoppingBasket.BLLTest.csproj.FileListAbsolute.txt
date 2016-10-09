@@ -1,0 +1,13 @@
+D:\Work\JobHunt2016\Iglu Techical Task\Lab.ShoppingBasket\Lab.ShoppingBasket.BLLTest\bin\Debug\Lab.ShoppingBasket.BLLTest.dll
+D:\Work\JobHunt2016\Iglu Techical Task\Lab.ShoppingBasket\Lab.ShoppingBasket.BLLTest\bin\Debug\Lab.ShoppingBasket.BLLTest.pdb
+D:\Work\JobHunt2016\Iglu Techical Task\Lab.ShoppingBasket\Lab.ShoppingBasket.BLLTest\bin\Debug\Lab.ShoppingBasket.BLL.dll
+D:\Work\JobHunt2016\Iglu Techical Task\Lab.ShoppingBasket\Lab.ShoppingBasket.BLLTest\bin\Debug\Lab.ShoppingBasket.DAL.dll
+D:\Work\JobHunt2016\Iglu Techical Task\Lab.ShoppingBasket\Lab.ShoppingBasket.BLLTest\bin\Debug\nunit.framework.dll
+D:\Work\JobHunt2016\Iglu Techical Task\Lab.ShoppingBasket\Lab.ShoppingBasket.BLLTest\bin\Debug\Lab.ShoppingBasket.Utilities.dll
+D:\Work\JobHunt2016\Iglu Techical Task\Lab.ShoppingBasket\Lab.ShoppingBasket.BLLTest\bin\Debug\Lab.ShoppingBasket.BLL.pdb
+D:\Work\JobHunt2016\Iglu Techical Task\Lab.ShoppingBasket\Lab.ShoppingBasket.BLLTest\bin\Debug\Lab.ShoppingBasket.DAL.pdb
+D:\Work\JobHunt2016\Iglu Techical Task\Lab.ShoppingBasket\Lab.ShoppingBasket.BLLTest\bin\Debug\nunit.framework.xml
+D:\Work\JobHunt2016\Iglu Techical Task\Lab.ShoppingBasket\Lab.ShoppingBasket.BLLTest\bin\Debug\Lab.ShoppingBasket.Utilities.pdb
+D:\Work\JobHunt2016\Iglu Techical Task\Lab.ShoppingBasket\Lab.ShoppingBasket.BLLTest\obj\Debug\Lab.ShoppingBasket.BLLTest.csprojResolveAssemblyReference.cache
+D:\Work\JobHunt2016\Iglu Techical Task\Lab.ShoppingBasket\Lab.ShoppingBasket.BLLTest\obj\Debug\Lab.ShoppingBasket.BLLTest.dll
+D:\Work\JobHunt2016\Iglu Techical Task\Lab.ShoppingBasket\Lab.ShoppingBasket.BLLTest\obj\Debug\Lab.ShoppingBasket.BLLTest.pdb

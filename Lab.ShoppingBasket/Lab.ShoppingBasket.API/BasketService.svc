@@ -1,0 +1,6 @@
+﻿<%@ ServiceHost 
+    Language="C#" 
+    Debug="true" 
+    Service="Lab.ShoppingBasket.API.BasketService" 
+    CodeBehind="BasketService.svc.cs"
+    Factory="Lab.ShoppingBasket.API.Unity.UnityBasketService" %>
